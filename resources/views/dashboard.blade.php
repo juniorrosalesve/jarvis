@@ -66,7 +66,7 @@
     <script>
         function deleteItem(id) {
             if(confirm('¿Seguro que deseas eliminarlo?'))
-                location.href='http://127.0.0.8/eliminar-cliente/'+id;
+                location.href='https://jarvis.tgmsolutionsc.com/eliminar-cliente/'+id;
         }
     </script>
 </x-app-layout>
